@@ -1,0 +1,85 @@
+[
+  {
+    "name":"Ebola, Ebola fever, Ebola hemorrhagic fever",
+    "shortname":"ebola",
+    "description":"A severe and often fatal disease in humans and nonhumans primates (monkeys and chimpanzees) caused by the Ebola virus",
+    "symptoms":"Characterized by high fever and severe internal bleeding",
+    "transmission":"Can be spread from person to person",
+    "level":"Level 8",
+    "localization":"Africa"
+  },
+  {
+    "name":"Cholera, epidemic cholera, Asiatic cholera, indian cholera",
+    "shortname":"cholera",
+    "description":"Any of several acute infectious diseases of humans and domestic animals, caused by the Vibrio cholerate bacterium through ingestion of contaminated water or food",
+    "symptoms":"Usually marked by severe gastrointestinal symptoms such as diarrhea, abdominal cramps, nausea, vomiting, and dehydration",
+    "transmission":"Contaminated water or food",
+    "level":"Level 8",
+    "localization":"Africa, Asia"
+  },
+  {
+     
+    "name":"Polio,infantile paralysis, poliomyelitis",
+    "shortname":"polio",
+    "description":"Acute infection by the poliovirus, especially of the motor neurons in the spinal cord and brainstem, leading to muscle weakness, paralysis and sometimes deformity",
+    "symptoms":"marked by the inflammation of nerve cells of the brain stem and spinal cord",
+    "transmission":"Not known",
+    "level":"Level 8",
+    "localization":"Africa"
+  },
+  {
+    
+    "name":"Tuberculosis,TB",
+    "shortname":"tb",
+    "description":"An infectious disease of humans and animals caused by a species of mycobacterium mainly infecting the lungs where it causes tubercles",
+    "symptoms":"Characterized by the expectoration of mucus and sputum, fever, weight loss and chest pain, Manifested in fever and small lesions (usually in the lungs but in various other parts of the body in acute, short, quick stages)",
+    "transmission":"Transmitted through inhalation or ingestion of bacteria (tubercle bacilli)",
+    "level":"Level 8",
+    "localization":"Africa"
+  },
+  {
+    "name":"Malaria",
+    "shortname":"malaria",
+    "description":"An effective disease caused by sporozoan parasites that are transmitted through the bite of an infected Anopheles mosquito; A disease spread by mosquito, in which a protozoan",
+    "symptoms":"Marked by paroxysms of chills and fever. An accute fever, intermittent fever, attended by alternate cold and hot fits",
+    "transmission":"Transmitted through the bite of an infected Anopheles mosquito",
+    "level":"Level 8",
+    "localization":"Africa"
+  },
+  {
+    "name":"Ebola, Ebola fever, Ebola hemorrhagic fever",
+    "shortname":"ebola",
+    "description":"A severe and often fatal disease in humans and nonhumans primates (monkeys and chimpanzees) caused by the Ebola virus",
+    "symptoms":"Characterized by high fever and severe internal bleeding",
+    "transmission":"Can be spread from person to person",
+    "level":"Level 8",
+    "localization":"Africa"
+  },
+  {
+    "name":"Ebola, Ebola fever, Ebola hemorrhagic fever",
+    "shortname":"ebola",
+    "description":"A severe and often fatal disease in humans and nonhumans primates (monkeys and chimpanzees) caused by the Ebola virus",
+    "symptoms":"Characterized by high fever and severe internal bleeding",
+    "transmission":"Can be spread from person to person",
+    "level":"Level 8",
+    "localization":"Africa"
+  },
+  {
+    "name":"Ebola, Ebola fever, Ebola hemorrhagic fever",
+    "shortname":"ebola",
+    "description":"A severe and often fatal disease in humans and nonhumans primates (monkeys and chimpanzees) caused by the Ebola virus",
+    "symptoms":"Characterized by high fever and severe internal bleeding",
+    "transmission":"Can be spread from person to person",
+    "level":"Level 8",
+    "localization":"Africa"
+  },
+  {
+    "name":"Ebola, Ebola fever, Ebola hemorrhagic fever",
+    "shortname":"ebola",
+    "description":"A severe and often fatal disease in humans and nonhumans primates (monkeys and chimpanzees) caused by the Ebola virus",
+    "symptoms":"Characterized by high fever and severe internal bleeding",
+    "transmission":"Can be spread from person to person",
+    "level":"Level 8",
+    "localization":"Africa"
+  }
+]
