@@ -1,0 +1,14 @@
+<section class="diseaseinfo">
+	<div class="disease cf" ng-model="diseases">
+		<a href="#/details/{{prevItem}}" class="btn btn-left">&lt;</a>
+		<a href="#/details/{{nextItem}}" class="btn btn-right">&gt;</a>
+		<h1>{{diseases[whichItem].name}}</h1>
+		<div class="info">
+			<h3>{{diseases[whichItem].symptoms}}</h3>
+			<img ng-src="images/{{diseases[whichItem].shortname}}_tn.jpg"
+			alt="Photo of {{diseases[whichItem].name}}">
+			<div class="bio">{{diseases[whichItem].description}}</div>
+		</div>
+	</div> 
+	<a href="index.html">&laquo; Back to search</a>
+</section>
