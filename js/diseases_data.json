@@ -49,7 +49,7 @@
   {
     "name":"Dengue",
     "shortname":"dengue",
-    "description":". Severe cases develop into dengue hemorrhagic fever, which involves high fever, hemorrhaging, and sometimes circulatory failure",
+    "description":"Severe cases develop into dengue hemorrhagic fever, which involves high fever, hemorrhaging, and sometimes circulatory failure",
     "symptoms":"Characterized by high fever, severe headaches, muscle and joint pains, and rash",
     "transmission":" It is spread through the bite of the Aedes aegypti mosquito",
     "level":"Level 6",
@@ -65,8 +65,8 @@
     "localization":"Africa"
   },
   {
-    "name":"Ebola, Ebola fever, Ebola hemorrhagic fever",
-    "shortname":"ebola",
+    "name":"African Trypanosomiasis (“sleeping sickness”)",
+    "shortname":"trypanosomias",
     "description":"A severe and often fatal disease in humans and nonhumans primates (monkeys and chimpanzees) caused by the Ebola virus",
     "symptoms":"Characterized by high fever and severe internal bleeding",
     "transmission":"Can be spread from person to person",
@@ -74,12 +74,12 @@
     "localization":"Africa"
   },
   {
-    "name":"Ebola, Ebola fever, Ebola hemorrhagic fever",
-    "shortname":"ebola",
-    "description":"A severe and often fatal disease in humans and nonhumans primates (monkeys and chimpanzees) caused by the Ebola virus",
-    "symptoms":"Characterized by high fever and severe internal bleeding",
-    "transmission":"Can be spread from person to person",
-    "level":"Level 8",
+    "name":"Hepatitis A",
+    "shortname":"hepatitisa",
+    "description":"Hepatitis A is a highly contagious liver disease caused by the hepatitis A virus",
+    "symptoms":"Symptoms include fever, fatigue, jaundice, and dark urine.",
+    "transmission":"Spread primarily by the fecal-oral route or by ingestion of contaminated water or food",
+    "level":"Level 5",
     "localization":"Africa"
   }
 ]
