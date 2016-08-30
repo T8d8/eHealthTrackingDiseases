@@ -81,5 +81,14 @@
     "transmission":"Spread primarily by the fecal-oral route or by ingestion of contaminated water or food",
     "level":"Level 5",
     "localization":"Africa"
+  },
+  {
+    "name":"Hepatitis B",
+    "shortname":"hepatitisb",
+    "description":"Approximately 2 billion people are infected with the hepatitis B virus (HBV), making it the most common infectious disease in the world today",
+    "symptoms":"Hepatitis is an inflammation of the liver that causes symptoms such as jaundice, extreme fatigue, nausea, vomiting, and stomach pain; hepatitis B is the most serious form of the disease. Chronic infections can cause cirrhosis of the liver or liver cancer in later years",
+    "transmission":"Spread primarily by the fecal-oral route or by ingestion of contaminated water or food",
+    "level":"Level 5",
+    "localization":"Africa"
   }
 ]
