@@ -47,18 +47,18 @@
     "localization":"Africa"
   },
   {
-    "name":"Ebola, Ebola fever, Ebola hemorrhagic fever",
-    "shortname":"ebola",
-    "description":"A severe and often fatal disease in humans and nonhumans primates (monkeys and chimpanzees) caused by the Ebola virus",
-    "symptoms":"Characterized by high fever and severe internal bleeding",
-    "transmission":"Can be spread from person to person",
-    "level":"Level 8",
-    "localization":"Africa"
+    "name":"Dengue",
+    "shortname":"dengue",
+    "description":". Severe cases develop into dengue hemorrhagic fever, which involves high fever, hemorrhaging, and sometimes circulatory failure",
+    "symptoms":"Characterized by high fever, severe headaches, muscle and joint pains, and rash",
+    "transmission":" It is spread through the bite of the Aedes aegypti mosquito",
+    "level":"Level 6",
+    "localization":"Asia and Africa"
   },
   {
-    "name":"Ebola, Ebola fever, Ebola hemorrhagic fever",
-    "shortname":"ebola",
-    "description":"A severe and often fatal disease in humans and nonhumans primates (monkeys and chimpanzees) caused by the Ebola virus",
+    "name":"Pneumonia",
+    "shortname":"pneomonia",
+    "description":"Pneumonia has many possible causes, but it is usually an infection of the streptococcus or mycoplasma bacteria. These bacteria can live in the human body without causing infection for years, and only surface when another illness has lowered the person's immunity to disease",
     "symptoms":"Characterized by high fever and severe internal bleeding",
     "transmission":"Can be spread from person to person",
     "level":"Level 8",
