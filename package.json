@@ -1,0 +1,23 @@
+{
+  "name": "ehealthtrackingdiseases",
+  "version": "1.0.0",
+  "description": "The eHealth Tracking Disease is a web application that will be used in order to track diseases, to observe the disease over time, to monitor the evolution of widespreads and dangerous diseases such as Ebola, Cholera, polio,etc",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdoulayebinta/eHealthTrackingDiseases.git"
+  },
+  "keywords": [
+    "tracking",
+    "diseases"
+  ],
+  "author": "BAH Abdoulaye, Jules Thea, Diallo Thier\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[C\u001b[C\u001b[C\u001b\u001b[C\u001b\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C BAH, Jules Thea, Thierno Ibrahima Diallo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abdoulayebinta/eHealthTrackingDiseases/issues"
+  },
+  "homepage": "https://github.com/abdoulayebinta/eHealthTrackingDiseases#readme"
+}
