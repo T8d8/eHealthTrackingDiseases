@@ -1,0 +1,25 @@
+{
+  "name": "ehealthtrackingdiseases",
+  "description": "The eHealth Tracking Disease is a web application that will be used in order to track diseases, to observe the disease over time, to monitor the evolution of widespreads and dangerous diseases such as Ebola, Cholera, polio,etc",
+  "main": "index.html",
+  "authors": [
+    "BAH Abdoulaye",
+    "Jules Thea",
+    "Diallo Thier\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[C\u001b[C\u001b[C\u001b\u001b[C\u001b\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C BAH",
+    "Jules Thea",
+    "Thierno Ibrahima Diallo"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "tracking",
+    "diseases"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
