@@ -90,5 +90,169 @@
     "transmission":"Spread primarily by the fecal-oral route or by ingestion of contaminated water or food",
     "level":"Level 5",
     "localization":"Africa"
-  }
+  },
+   {
+    "name":"HIV,Humman Immunodeficiency virus",
+    "shortname":"HIV",
+    "description":"HIV is the virus that causes Accquired Immunodeficiency Syndrome (AIDS),a desease that attack the immune systhem, causing it's faillure and allowing opportunistic infections",
+    "symptoms":"Characterized by high fever and severe internal bleeding",
+    "transmission":"Heterosexual is the most case of transmission but other ways of infection include: needles, syringe, unsterilized invassive instruments and baies born to an infected mother",
+    "level":"9",
+    "localization":"Africa"
+  },
+
+  {
+	"name":"Pneumonia, Pneumonitis, Bronchopneumonia",
+	"shortname":"Pneumonia",
+	"description":"Pneumonia is a lung infection affecting primarrly the microsopic air sacsknown as alveoli cause by virus or bacterial infection.",
+	"symptoms":"the typical signs are cough, difficulty breathing, rapid heartbeat, fever, feeling generally unwell, sweating and shivering,loss of appetite, chess pain, headaches,nausea, fatigue, wheezing, joint and muscle pain",
+	"transmission":"usually transmited by infection of virus or bacteria and commonly by other microorganisms,certain medications such as autoimmune deseases.",
+	"level":"8",
+	"localization":"Africa",
+
+  },
+
+  {
+    "name":"Syphilis, great imitator",
+    "shortname":"Syphilis",
+    "description":"Is a chronical bacterial desease",
+    "symptoms":"The signs and sympthoms vary depending in which of the foue stages(primary,secondary,latent and tertiary), single chancre,skin ulceration,sores in the mouth or vagina, gumma,neurological or heart symptom"
+    "transmission":"sexually transmitted infection cause by bacterium treponema pallidum but also congenitally by infection of a developing fetus",
+    "level":"7",
+    "localization":"Africa",
+  },
+
+  {
+    "name":"Tetanus, Lockjaw"
+    "shortname":"Tetanus",
+    "description":"Serious diseade that affects your nervous system leading to painful muscle contraction particularly of your jaw and neck",
+    "symptoms":"The signs are fever, sweating, headache, trouble swallowing, high blood pressure and fast heart rate",
+    "transmission":"transmitted by infecting individual when there is a breach in the first layer of barrier against diseases" " skin or mucuous membranes" "a breach caused by small cut or wound can also get contaminated by clostridium tetani",
+    "level":"8"
+    "localization":"Africa"
+  },
+
+  {
+    "name":"Whooping cough, Pertussis"
+    "shortname":Whooping
+    "description":"Highly contagious respiratory infection caused by the bacterium bordetella pertussis"
+    "symptoms":"Severe cough, characteristic sound on inhalation, vomiting at the end of a bout of coughing, apnoea, poor appetite, fatigue, dehydration"
+    "transmission":"done by a bacterial called bordetella pertussis which isspreadby airborne droplets from the upper respiratory tract when the infected person cough or sneezes",
+    "level":"7"
+    "localization":"Africa"
+  },
+
+  {
+    "name":"Measles, Rubeola",
+    "shortname":"Measles",
+    "description":"Highly contagious infection caused by measles virus",
+    "symptoms":"fever, cough, runny nose, inflamed eyes, diarrhea, blindness, inflammation of the brain"
+    "transmission":"spread easily through the coughs and sneezes of those infected also spread through contact with saliva or nasal secretions",
+    "level":"7"
+    "localization":"Africa"
+  },
+
+  {
+    "name":"meningitis",
+    "shortname":"Meningitis",
+    "description":"Inflamation of the protective membranes covering the brain and spinal cord known as the meninges",
+    "symptoms":"Fever, headache, neck stiffness, confusion, consciousness, vomiting"
+    "transmission":"spread from person to person by exchanging of respiratory and throat secretions during close contact"
+    "level":"9",
+    "localization":"Africa"
+  },
+
+  {
+  "name":"Poliomyelitis" "Polio,infantile,paralysis",
+    "shortname":"polio",
+    "description":"infectious  viral disease caused by polio virus which mainly affects young children",
+    "symptoms":"Fever" "fatigue, headache, vomiting, stiffness in the neck, pain in the limbs",
+    "transmission":"the virus is transmitted from person to person spread mainlt through the faecal-oralroute or by using contaminated water or food then multiplies in the intestine from where it can invade the nervous system and can cause paralysis.",
+    "level":"8"
+    "localization":"Africa",
+},
+
+ {
+    "name":"HIV,Humman Immunodeficiency virus",
+    "shortname":"HIV",
+    "description":"HIV is the virus that causes Accquired Immunodeficiency Syndrome (AIDS),a desease that attack the immune systhem, causing it's faillure and allowing opportunistic infections",
+    "symptoms":"Characterized by high fever and severe internal bleeding",
+    "transmission":"Heterosexual is the most case of transmission but other ways of infection include: needles, syringe, unsterilized invassive instruments and baies born to an infected mother",
+    "level":"9",
+    "localization":"Africa"
+  },
+
+  {
+	"name":"Pneumonia, Pneumonitis, Bronchopneumonia",
+	"shortname":"Pneumonia",
+	"description":"Pneumonia is a lung infection affecting primarrly the microsopic air sacsknown as alveoli cause by virus or bacterial infection.",
+	"symptoms":"the typical signs are cough, difficulty breathing, rapid heartbeat, fever, feeling generally unwell, sweating and shivering,loss of appetite, chess pain, headaches,nausea, fatigue, wheezing, joint and muscle pain",
+	"transmission":"usually transmited by infection of virus or bacteria and commonly by other microorganisms,certain medications such as autoimmune deseases.",
+	"level":"8",
+	"localization":"Africa",
+
+  },
+
+  {
+    "name":"Syphilis, great imitator",
+    "shortname":"Syphilis",
+    "description":"Is a chronical bacterial desease",
+    "symptoms":"The signs and sympthoms vary depending in which of the foue stages(primary,secondary,latent and tertiary), single chancre,skin ulceration,sores in the mouth or vagina, gumma,neurological or heart symptom"
+    "transmission":"sexually transmitted infection cause by bacterium treponema pallidum but also congenitally by infection of a developing fetus",
+    "level":"7",
+    "localization":"Africa",
+  },
+
+  {
+    "name":"Tetanus, Lockjaw"
+    "shortname":"Tetanus",
+    "description":"Serious diseade that affects your nervous system leading to painful muscle contraction particularly of your jaw and neck",
+    "symptoms":"The signs are fever, sweating, headache, trouble swallowing, high blood pressure and fast heart rate",
+    "transmission":"transmitted by infecting individual when there is a breach in the first layer of barrier against diseases" " skin or mucuous membranes" "a breach caused by small cut or wound can also get contaminated by clostridium tetani",
+    "level":"8"
+    "localization":"Africa"
+  },
+
+  {
+    "name":"Whooping cough, Pertussis"
+    "shortname":Whooping
+    "description":"Highly contagious respiratory infection caused by the bacterium bordetella pertussis"
+    "symptoms":"Severe cough, characteristic sound on inhalation, vomiting at the end of a bout of coughing, apnoea, poor appetite, fatigue, dehydration"
+    "transmission":"done by a bacterial called bordetella pertussis which isspreadby airborne droplets from the upper respiratory tract when the infected person cough or sneezes",
+    "level":"7"
+    "localization":"Africa"
+  },
+
+  {
+    "name":"Measles, Rubeola",
+    "shortname":"Measles",
+    "description":"Highly contagious infection caused by measles virus",
+    "symptoms":"fever, cough, runny nose, inflamed eyes, diarrhea, blindness, inflammation of the brain"
+    "transmission":"spread easily through the coughs and sneezes of those infected also spread through contact with saliva or nasal secretions",
+    "level":"7"
+    "localization":"Africa"
+  },
+
+  {
+    "name":"meningitis",
+    "shortname":"Meningitis",
+    "description":"Inflamation of the protective membranes covering the brain and spinal cord known as the meninges",
+    "symptoms":"Fever, headache, neck stiffness, confusion, consciousness, vomiting"
+    "transmission":"spread from person to person by exchanging of respiratory and throat secretions during close contact"
+    "level":"9",
+    "localization":"Africa"
+  },
+
+  {
+  "name":"Poliomyelitis" "Polio,infantile,paralysis",
+    "shortname":"polio",
+    "description":"infectious  viral disease caused by polio virus which mainly affects young children",
+    "symptoms":"Fever" "fatigue, headache, vomiting, stiffness in the neck, pain in the limbs",
+    "transmission":"the virus is transmitted from person to person spread mainlt through the faecal-oralroute or by using contaminated water or food then multiplies in the intestine from where it can invade the nervous system and can cause paralysis.",
+    "level":"8"
+    "localization":"Africa",
+},
+
+ 
+ 
 ]
